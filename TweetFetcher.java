@@ -24,10 +24,10 @@ public class TweetFetcher extends Application {
    private ListView<Status> tweetListView;
 
    // Constants for API keys and secrets
-   private static final String CONSUMER_KEY = "MZWiPCVj0krFlN9MjaYH1VOuz";
-   private static final String CONSUMER_SECRET = "E4wCRHsB2HLEz97YusTohoHsplgqt70Z7BV3xUnLKZtixkNmfJ";
-   private static final String ACCESS_TOKEN = "1511467391682859009-5AWQURJVI7iGskDvOgmqI6OpaY43Qi";
-   private static final String ACCESS_TOKEN_SECRET = "AkALbcLDuRYnExe8yc0kMWPR6HtO2y8fWXxOUd8z9vaFA";
+   private static final String CONSUMER_KEY = " ";
+   private static final String CONSUMER_SECRET = " ";
+   private static final String ACCESS_TOKEN = " ";
+   private static final String ACCESS_TOKEN_SECRET = " ";
 
    //public static void main(String[] args) {
        //launch(args);
